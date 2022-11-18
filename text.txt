@@ -1,3 +1,2 @@
-my name is kazeem
-
-this is a new branch
+my name is kaz 
+new-branch this is a new branch
